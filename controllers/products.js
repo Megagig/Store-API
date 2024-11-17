@@ -1,5 +1,13 @@
+const Product = require('../models/product');
+
 const getAllProducts = async (req, res) => {
-  res.status(200).json({ message: 'Get all products' });
+  const products = await Product.find(req.query);
+  res.status(200).json({
+    status: 'success',
+    message: 'Get all featured products',
+    data: products,
+    nbHits: products.length,
+  });
 };
 
 module.exports = {
