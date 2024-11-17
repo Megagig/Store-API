@@ -46,7 +46,7 @@ const ProductSchema = new mongoose.Schema(
       default: 4.5,
     },
     company: {
-      type: string,
+      type: String,
       enum: {
         values: [
           'Peneth',
