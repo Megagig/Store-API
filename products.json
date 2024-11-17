@@ -1,131 +1,222 @@
 [
   {
-    "name": "accent chair",
-    "price": 25,
-    "company": "marcos",
-    "rating": 4
-  },
-  {
-    "name": "albany sectional",
-    "price": 109,
-    "company": "liddy",
-    "rating": 5
-  },
-  {
-    "name": "albany table",
-    "price": 309,
-    "company": "liddy",
-    "rating": 4.9
-  },
-  {
-    "name": "armchair",
-    "price": 125,
-    "company": "marcos",
-    "rating": 4.8
-  },
-  {
-    "name": "bar stool",
-    "price": 40,
-    "company": "liddy",
-    "rating": 4.6
-  },
-  {
-    "name": "dining table",
-    "price": 42,
-    "company": "ikea",
-    "rating": 4.55
-  },
-  {
-    "name": "emperor bed",
-    "price": 23,
-    "company": "ikea"
-  },
-  {
-    "name": "entertainment center",
-    "price": 59,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 59.99,
+    "description": "Over-ear headphones with noise cancellation and 20-hour battery life.",
+    "category": "Electronics",
+    "stock": 150,
+    "brand": "AudioTech",
     "featured": true,
-    "company": "caressa"
+    "rating": 4.8,
+    "company": "Peneth"
   },
   {
-    "name": "high-back bench",
-    "price": 39,
+    "name": "Ergonomic Office Chair",
+    "price": 129.99,
+    "description": "Comfortable office chair with adjustable lumbar support and breathable mesh.",
+    "category": "Furniture",
+    "stock": 40,
+    "brand": "ComfortPlus",
+    "featured": false,
+    "rating": 4.6,
+    "company": "Turning Point"
+  },
+  {
+    "name": "Stainless Steel Water Bottle",
+    "price": 19.99,
+    "description": "Durable, eco-friendly water bottle with double-wall insulation to keep drinks cold or hot.",
+    "category": "Home & Kitchen",
+    "stock": 200,
+    "brand": "EcoGear",
     "featured": true,
-    "company": "ikea"
-  },
-
-  {
-    "name": "leather sofa",
-    "price": 99,
-    "company": "caressa"
+    "rating": 4.7,
+    "company": "Casandra"
   },
   {
-    "name": "modern bookshelf",
-    "price": 31,
+    "name": "Portable Phone Charger",
+    "price": 25.99,
+    "description": "Compact and lightweight power bank with 10000mAh capacity and fast charging capability.",
+    "category": "Accessories",
+    "stock": 500,
+    "brand": "ChargeMate",
+    "featured": false,
+    "rating": 4.4,
+    "company": "Good Hope"
+  },
+  {
+    "name": "Smart LED Light Bulb",
+    "price": 14.99,
+    "description": "Wi-Fi-enabled LED bulb with customizable colors and compatibility with smart home devices.",
+    "category": "Smart Home",
+    "stock": 300,
+    "brand": "BrightTech",
     "featured": true,
-    "company": "caressa"
+    "rating": 4.5,
+    "company": "MegaCorp"
   },
   {
-    "name": "modern poster",
-    "price": 30,
-    "company": "liddy"
-  },
-  {
-    "name": "shelf",
-    "price": 30,
-    "company": "ikea"
-  },
-  {
-    "name": "simple chair",
-    "price": 109,
-    "company": "liddy"
-  },
-  {
-    "name": "sofa set",
-    "price": 129,
-    "company": "marcos"
-  },
-  {
-    "name": "suede armchair",
-    "price": 15,
-    "company": "caressa"
-  },
-  {
-    "name": "utopia sofa",
-    "price": 79,
+    "name": "Gaming Mouse",
+    "price": 34.99,
+    "description": "Ergonomic gaming mouse with RGB lighting and customizable buttons.",
+    "category": "Electronics",
+    "stock": 100,
+    "brand": "GameGear",
     "featured": true,
-    "company": "liddy"
+    "rating": 4.3,
+    "company": "Peneth"
   },
   {
-    "name": "vase table",
-    "price": 120,
+    "name": "Yoga Mat",
+    "price": 24.99,
+    "description": "Eco-friendly, non-slip yoga mat with carrying strap.",
+    "category": "Sports & Outdoors",
+    "stock": 75,
+    "brand": "ZenFit",
+    "featured": false,
+    "rating": 4.9,
+    "company": "Turning Point"
+  },
+  {
+    "name": "4K Ultra HD Smart TV",
+    "price": 799.99,
+    "description": "65-inch Smart TV with 4K Ultra HD resolution and voice control support.",
+    "category": "Electronics",
+    "stock": 25,
+    "brand": "VisionPro",
     "featured": true,
-    "company": "marcos"
+    "rating": 4.8,
+    "company": "Good Hope"
   },
   {
-    "name": "wooden bed",
-    "price": 25,
-    "company": "ikea"
+    "name": "Electric Kettle",
+    "price": 29.99,
+    "description": "Stainless steel electric kettle with auto shut-off and boil-dry protection.",
+    "category": "Home & Kitchen",
+    "stock": 120,
+    "brand": "KitchenPro",
+    "featured": false,
+    "rating": 4.5,
+    "company": "Casandra"
   },
   {
-    "name": "wooden desk",
-    "price": 15,
-    "company": "ikea"
-  },
-  {
-    "name": "wooden desk",
-    "price": 40,
-    "company": "ikea"
-  },
-  {
-    "name": "wooden table",
-    "price": 23,
+    "name": "Adjustable Dumbbells",
+    "price": 199.99,
+    "description": "Set of adjustable dumbbells for strength training with a range of 5-50 lbs.",
+    "category": "Sports & Outdoors",
+    "stock": 15,
+    "brand": "StrongFlex",
     "featured": true,
-    "company": "caressa"
+    "rating": 4.7,
+    "company": "MegaCorp"
   },
   {
-    "name": "a first wooden table",
-    "price": 23,
+    "name": "Wireless Keyboard and Mouse Combo",
+    "price": 49.99,
+    "description": "Compact and ergonomic wireless keyboard and mouse set.",
+    "category": "Accessories",
+    "stock": 250,
+    "brand": "TechEase",
+    "featured": false,
+    "rating": 4.6,
+    "company": "Peneth"
+  },
+  {
+    "name": "Air Purifier",
+    "price": 119.99,
+    "description": "Compact air purifier with HEPA filter and quiet operation.",
+    "category": "Smart Home",
+    "stock": 80,
+    "brand": "BreatheWell",
     "featured": true,
-    "company": "caressa"
+    "rating": 4.9,
+    "company": "Turning Point"
+  },
+  {
+    "name": "Cordless Drill",
+    "price": 89.99,
+    "description": "Powerful cordless drill with variable speed control and two batteries.",
+    "category": "Tools & Home Improvement",
+    "stock": 60,
+    "brand": "BuildMaster",
+    "featured": false,
+    "rating": 4.5,
+    "company": "Casandra"
+  },
+  {
+    "name": "Waterproof Backpack",
+    "price": 49.99,
+    "description": "Lightweight waterproof backpack for travel and outdoor adventures.",
+    "category": "Accessories",
+    "stock": 95,
+    "brand": "AdventureGear",
+    "featured": true,
+    "rating": 4.6,
+    "company": "Good Hope"
+  },
+  {
+    "name": "Electric Scooter",
+    "price": 299.99,
+    "description": "Foldable electric scooter with a range of 15 miles and max speed of 15 mph.",
+    "category": "Sports & Outdoors",
+    "stock": 10,
+    "brand": "RideTech",
+    "featured": true,
+    "rating": 4.7,
+    "company": "MegaCorp"
+  },
+  {
+    "name": "Noise-Cancelling Earbuds",
+    "price": 69.99,
+    "description": "Wireless earbuds with active noise cancellation and 10-hour battery life.",
+    "category": "Electronics",
+    "stock": 180,
+    "brand": "SoundWave",
+    "featured": false,
+    "rating": 4.4,
+    "company": "Peneth"
+  },
+  {
+    "name": "Digital Kitchen Scale",
+    "price": 19.99,
+    "description": "Precision digital scale for measuring food ingredients.",
+    "category": "Home & Kitchen",
+    "stock": 300,
+    "brand": "WeighRight",
+    "featured": true,
+    "rating": 4.8,
+    "company": "Turning Point"
+  },
+  {
+    "name": "Fitness Tracker",
+    "price": 49.99,
+    "description": "Waterproof fitness tracker with heart rate monitor and step counter.",
+    "category": "Electronics",
+    "stock": 200,
+    "brand": "FitPlus",
+    "featured": false,
+    "rating": 4.7,
+    "company": "Good Hope"
+  },
+  {
+    "name": "Laptop Cooling Pad",
+    "price": 29.99,
+    "description": "Ultra-slim laptop cooling pad with quiet fans and ergonomic design.",
+    "category": "Accessories",
+    "stock": 85,
+    "brand": "CoolTech",
+    "featured": true,
+    "rating": 4.5,
+    "company": "MegaCorp"
+  },
+  {
+    "name": "Smart Thermostat",
+    "price": 149.99,
+    "description": "Programmable smart thermostat with Wi-Fi connectivity and energy-saving features.",
+    "category": "Smart Home",
+    "stock": 50,
+    "brand": "EcoSmart",
+    "featured": true,
+    "rating": 4.9,
+    "company": "Casandra"
   }
 ]
